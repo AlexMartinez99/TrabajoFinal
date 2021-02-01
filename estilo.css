@@ -1,0 +1,68 @@
+@import url("http://fonts.googleapis.com/css?family=Ribeye+Marrow");
+body{
+    background: url("logo\ liga.png") repeat-y top left; 
+      background-color:rgb(70, 173, 221);
+      background-size: 180px, 180px;
+      
+    padding-bottom: 120px;
+    font-size: 1rem;  
+    margin: 15px 185px;
+    }
+    h1{
+        font-family: "Ribeye Marrow";
+        color:orange;
+        text-align: center;
+        font-size:4.25rem;
+        font-style: oblique;
+        }
+        nav {
+            top: 20px;
+            position: fixed;
+            background-color: orange;
+            
+            }
+            section{
+                border:solid 1px;
+                font-family:cursive;
+                background-color: orange;
+                color: white;
+                background-size: 200px;
+                margin-left: 150px;
+                margin-right: 100px;
+                border-radius: 30px;
+                padding: 20px;
+                text-align: center;
+                padding-bottom: 100px;
+                margin-top:10px;
+                }
+                div.historia{
+                    text-align: center;
+                    border:solid 1px;
+                    margin-top: 10px;
+                    font-family:cursive;
+                    background-color: orange;
+                    color: white;
+                    background-size: 200px;
+                    margin-left: 150px;
+                    margin-right: 100px;
+                    border-radius: 30px;
+                    padding: 20px;
+                    
+                    }
+                         img{
+                             float: left;
+                             
+                         }
+                div.formulario {
+                    text-align: center;
+                    border:solid 1px;
+                    margin-top: 10px;
+                    font-family:cursive;
+                    background-color: orange;
+                    color: white;
+                    background-size: 200px;
+                    margin-left: 150px;
+                    margin-right: 100px;
+                    border-radius: 30px;
+                    padding: 20px;
+                }
